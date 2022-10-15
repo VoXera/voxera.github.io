@@ -356,7 +356,7 @@ button:focus {
   z-index: 1;
   background-image: linear-gradient(0deg, #0a2463 0%, #3e92cc 100%);
   background-image: -moz-linear-gradient(0deg, #0a2463 0%, #3e92cc 100%);
-  background-image: -webkit-linear-gradient(0deg, #00030a 10%, #d91f25 100%);
+  background-image: -webkit-linear-gradient(0deg, #5f17ea 10%, #d91f25 100%);
   background-image: -ms-linear-gradient(0deg, #0a2463 0%, #3e92cc 100%); }
   .home_banner_area .banner_inner {
 
